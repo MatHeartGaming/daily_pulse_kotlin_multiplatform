@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/matteobuompastore/Dev/KMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12684652748026276188.xml:2:13-83
+INJECTED from /Users/matteobuompastore/Dev/KMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12684652748026276188.xml:2:13-83
+	package
+		INJECTED from /Users/matteobuompastore/Dev/KMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12684652748026276188.xml
+	xmlns:android
+		ADDED from /Users/matteobuompastore/Dev/KMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12684652748026276188.xml:2:23-81
+uses-sdk
+INJECTED from /Users/matteobuompastore/Dev/KMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12684652748026276188.xml reason: use-sdk injection requested
+INJECTED from /Users/matteobuompastore/Dev/KMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12684652748026276188.xml
+INJECTED from /Users/matteobuompastore/Dev/KMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12684652748026276188.xml
+	android:targetSdkVersion
+		INJECTED from /Users/matteobuompastore/Dev/KMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12684652748026276188.xml
+	android:minSdkVersion
+		INJECTED from /Users/matteobuompastore/Dev/KMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12684652748026276188.xml
